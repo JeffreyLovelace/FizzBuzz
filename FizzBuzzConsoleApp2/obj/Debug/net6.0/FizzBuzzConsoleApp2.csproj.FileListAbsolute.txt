@@ -1,0 +1,50 @@
+C:\Users\Jeffrey\source\repos\TwistedFizzBuzz\FizzBuzzConsoleApp2\bin\Debug\net6.0\FizzBuzzConsoleApp2.exe
+C:\Users\Jeffrey\source\repos\TwistedFizzBuzz\FizzBuzzConsoleApp2\bin\Debug\net6.0\FizzBuzzConsoleApp2.deps.json
+C:\Users\Jeffrey\source\repos\TwistedFizzBuzz\FizzBuzzConsoleApp2\bin\Debug\net6.0\FizzBuzzConsoleApp2.runtimeconfig.json
+C:\Users\Jeffrey\source\repos\TwistedFizzBuzz\FizzBuzzConsoleApp2\bin\Debug\net6.0\FizzBuzzConsoleApp2.dll
+C:\Users\Jeffrey\source\repos\TwistedFizzBuzz\FizzBuzzConsoleApp2\bin\Debug\net6.0\FizzBuzzConsoleApp2.pdb
+C:\Users\Jeffrey\source\repos\TwistedFizzBuzz\FizzBuzzConsoleApp2\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+C:\Users\Jeffrey\source\repos\TwistedFizzBuzz\FizzBuzzConsoleApp2\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Jeffrey\source\repos\TwistedFizzBuzz\FizzBuzzConsoleApp2\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Jeffrey\source\repos\TwistedFizzBuzz\FizzBuzzConsoleApp2\bin\Debug\net6.0\TwistedFizzBuzz.dll
+C:\Users\Jeffrey\source\repos\TwistedFizzBuzz\FizzBuzzConsoleApp2\bin\Debug\net6.0\TwistedFizzBuzz.pdb
+C:\Users\Jeffrey\source\repos\TwistedFizzBuzz\FizzBuzzConsoleApp2\obj\Debug\net6.0\FizzBuzzConsoleApp2.csproj.AssemblyReference.cache
+C:\Users\Jeffrey\source\repos\TwistedFizzBuzz\FizzBuzzConsoleApp2\obj\Debug\net6.0\FizzBuzzConsoleApp2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jeffrey\source\repos\TwistedFizzBuzz\FizzBuzzConsoleApp2\obj\Debug\net6.0\FizzBuzzConsoleApp2.AssemblyInfoInputs.cache
+C:\Users\Jeffrey\source\repos\TwistedFizzBuzz\FizzBuzzConsoleApp2\obj\Debug\net6.0\FizzBuzzConsoleApp2.AssemblyInfo.cs
+C:\Users\Jeffrey\source\repos\TwistedFizzBuzz\FizzBuzzConsoleApp2\obj\Debug\net6.0\FizzBuzzConsoleApp2.csproj.CoreCompileInputs.cache
+C:\Users\Jeffrey\source\repos\TwistedFizzBuzz\FizzBuzzConsoleApp2\obj\Debug\net6.0\FizzBuzzConsoleApp2.csproj.CopyComplete
+C:\Users\Jeffrey\source\repos\TwistedFizzBuzz\FizzBuzzConsoleApp2\obj\Debug\net6.0\FizzBuzzConsoleApp2.dll
+C:\Users\Jeffrey\source\repos\TwistedFizzBuzz\FizzBuzzConsoleApp2\obj\Debug\net6.0\refint\FizzBuzzConsoleApp2.dll
+C:\Users\Jeffrey\source\repos\TwistedFizzBuzz\FizzBuzzConsoleApp2\obj\Debug\net6.0\FizzBuzzConsoleApp2.pdb
+C:\Users\Jeffrey\source\repos\TwistedFizzBuzz\FizzBuzzConsoleApp2\obj\Debug\net6.0\FizzBuzzConsoleApp2.genruntimeconfig.cache
+C:\Users\Jeffrey\source\repos\TwistedFizzBuzz\FizzBuzzConsoleApp2\obj\Debug\net6.0\ref\FizzBuzzConsoleApp2.dll
+C:\Users\Jeffrey\Documents\Prueba tecnica\FizzBuzz\FizzBuzzConsoleApp2\bin\Debug\net6.0\FizzBuzzConsoleApp2.exe
+C:\Users\Jeffrey\Documents\Prueba tecnica\FizzBuzz\FizzBuzzConsoleApp2\bin\Debug\net6.0\FizzBuzzConsoleApp2.deps.json
+C:\Users\Jeffrey\Documents\Prueba tecnica\FizzBuzz\FizzBuzzConsoleApp2\bin\Debug\net6.0\FizzBuzzConsoleApp2.runtimeconfig.json
+C:\Users\Jeffrey\Documents\Prueba tecnica\FizzBuzz\FizzBuzzConsoleApp2\bin\Debug\net6.0\FizzBuzzConsoleApp2.dll
+C:\Users\Jeffrey\Documents\Prueba tecnica\FizzBuzz\FizzBuzzConsoleApp2\bin\Debug\net6.0\FizzBuzzConsoleApp2.pdb
+C:\Users\Jeffrey\Documents\Prueba tecnica\FizzBuzz\FizzBuzzConsoleApp2\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+C:\Users\Jeffrey\Documents\Prueba tecnica\FizzBuzz\FizzBuzzConsoleApp2\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Jeffrey\Documents\Prueba tecnica\FizzBuzz\FizzBuzzConsoleApp2\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Jeffrey\Documents\Prueba tecnica\FizzBuzz\FizzBuzzConsoleApp2\bin\Debug\net6.0\TwistedFizzBuzz.dll
+C:\Users\Jeffrey\Documents\Prueba tecnica\FizzBuzz\FizzBuzzConsoleApp2\bin\Debug\net6.0\TwistedFizzBuzz.pdb
+C:\Users\Jeffrey\Documents\Prueba tecnica\FizzBuzz\FizzBuzzConsoleApp2\obj\Debug\net6.0\FizzBuzzConsoleApp2.csproj.AssemblyReference.cache
+C:\Users\Jeffrey\Documents\Prueba tecnica\FizzBuzz\FizzBuzzConsoleApp2\obj\Debug\net6.0\FizzBuzzConsoleApp2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jeffrey\Documents\Prueba tecnica\FizzBuzz\FizzBuzzConsoleApp2\obj\Debug\net6.0\FizzBuzzConsoleApp2.AssemblyInfoInputs.cache
+C:\Users\Jeffrey\Documents\Prueba tecnica\FizzBuzz\FizzBuzzConsoleApp2\obj\Debug\net6.0\FizzBuzzConsoleApp2.AssemblyInfo.cs
+C:\Users\Jeffrey\Documents\Prueba tecnica\FizzBuzz\FizzBuzzConsoleApp2\obj\Debug\net6.0\FizzBuzzConsoleApp2.csproj.CoreCompileInputs.cache
+C:\Users\Jeffrey\Documents\Prueba tecnica\FizzBuzz\FizzBuzzConsoleApp2\obj\Debug\net6.0\FizzBuzzConsoleApp2.csproj.CopyComplete
+C:\Users\Jeffrey\Documents\Prueba tecnica\FizzBuzz\FizzBuzzConsoleApp2\obj\Debug\net6.0\FizzBuzzConsoleApp2.dll
+C:\Users\Jeffrey\Documents\Prueba tecnica\FizzBuzz\FizzBuzzConsoleApp2\obj\Debug\net6.0\refint\FizzBuzzConsoleApp2.dll
+C:\Users\Jeffrey\Documents\Prueba tecnica\FizzBuzz\FizzBuzzConsoleApp2\obj\Debug\net6.0\FizzBuzzConsoleApp2.pdb
+C:\Users\Jeffrey\Documents\Prueba tecnica\FizzBuzz\FizzBuzzConsoleApp2\obj\Debug\net6.0\FizzBuzzConsoleApp2.genruntimeconfig.cache
+C:\Users\Jeffrey\Documents\Prueba tecnica\FizzBuzz\FizzBuzzConsoleApp2\obj\Debug\net6.0\ref\FizzBuzzConsoleApp2.dll
+C:\Users\Jeffrey\Documents\Prueba tecnica\FizzBuzz\FizzBuzzConsoleApp2\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Jeffrey\Documents\Prueba tecnica\FizzBuzz\FizzBuzzConsoleApp2\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Jeffrey\Documents\Prueba tecnica\FizzBuzz\FizzBuzzConsoleApp2\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Jeffrey\Documents\Prueba tecnica\FizzBuzz\FizzBuzzConsoleApp2\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Jeffrey\Documents\Prueba tecnica\FizzBuzz\FizzBuzzConsoleApp2\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Jeffrey\Documents\Prueba tecnica\FizzBuzz\FizzBuzzConsoleApp2\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Jeffrey\Documents\Prueba tecnica\FizzBuzz\FizzBuzzConsoleApp2\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\Jeffrey\Documents\Prueba tecnica\FizzBuzz\FizzBuzzConsoleApp2\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll

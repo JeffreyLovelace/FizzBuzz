@@ -1,0 +1,128 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Jeffrey\\source\\repos\\TwistedFizzBuzz\\FizzBuzzConsoleApp\\FizzBuzzStandarConsoleApp.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Jeffrey\\source\\repos\\TwistedFizzBuzz\\FizzBuzzConsoleApp\\FizzBuzzStandarConsoleApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Jeffrey\\source\\repos\\TwistedFizzBuzz\\FizzBuzzConsoleApp\\FizzBuzzStandarConsoleApp.csproj",
+        "projectName": "FizzBuzzStandarConsoleApp",
+        "projectPath": "C:\\Users\\Jeffrey\\source\\repos\\TwistedFizzBuzz\\FizzBuzzConsoleApp\\FizzBuzzStandarConsoleApp.csproj",
+        "packagesPath": "C:\\Users\\Jeffrey\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Jeffrey\\source\\repos\\TwistedFizzBuzz\\FizzBuzzConsoleApp\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Jeffrey\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Jeffrey\\source\\repos\\TwistedFizzBuzz\\TwistedFizzBuzz\\TwistedFizzBuzz.csproj": {
+                "projectPath": "C:\\Users\\Jeffrey\\source\\repos\\TwistedFizzBuzz\\TwistedFizzBuzz\\TwistedFizzBuzz.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Jeffrey\\source\\repos\\TwistedFizzBuzz\\TwistedFizzBuzz\\TwistedFizzBuzz.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Jeffrey\\source\\repos\\TwistedFizzBuzz\\TwistedFizzBuzz\\TwistedFizzBuzz.csproj",
+        "projectName": "TwistedFizzBuzz",
+        "projectPath": "C:\\Users\\Jeffrey\\source\\repos\\TwistedFizzBuzz\\TwistedFizzBuzz\\TwistedFizzBuzz.csproj",
+        "packagesPath": "C:\\Users\\Jeffrey\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Jeffrey\\source\\repos\\TwistedFizzBuzz\\TwistedFizzBuzz\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Jeffrey\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
